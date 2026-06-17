@@ -1,11 +1,11 @@
 # Nord Ghostty
 My own custom made Nord color scheme for Ghostty.
 
-<img width="165" height="103" alt="WinterNight" src="https://github.com/user-attachments/assets/4b9206a1-6575-47a5-8ac6-ef4f4b68991b" /><br/>
+<img width="103" height="107" alt="Snowflake" src="https://github.com/user-attachments/assets/e0ac967f-7663-4b18-a140-304ad37eb57c" /><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Nord color scheme](https://www.nordtheme.com/)<br/>
+* [Nord color palette](https://www.nordtheme.com/)<br/>
 
 <img width="260" height="83" alt="NordColors1" src="https://github.com/user-attachments/assets/14973b02-8f60-471a-8662-7240d866afd2" /><br/>
 
