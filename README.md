@@ -1,7 +1,7 @@
 # Nord Ghostty
 My own custom made Nord color scheme for Ghostty.
 
-<img width="103" height="107" alt="Snowflake" src="https://github.com/user-attachments/assets/e0ac967f-7663-4b18-a140-304ad37eb57c" /><br/>
+<img width="103" height="103" alt="Snowflake" src="https://github.com/user-attachments/assets/7516e2e6-eff1-42d4-a379-ad470a5db586" /><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
