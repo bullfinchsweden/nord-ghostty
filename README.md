@@ -17,6 +17,6 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Nord II Wave*
 
-<img src="Images/NordColors1.png" width="260" height="83" /><br/>
+<img src="Images/NordWaveColors1.png" width="260" height="83" /><br/>
 
-<img src="Images/NordColors2.png" width="785" height="398" />
+<img src="Images/NordWaveColors2.png" width="785" height="398" />
