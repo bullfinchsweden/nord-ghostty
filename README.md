@@ -1,4 +1,4 @@
-# Nord Ghostty 👻
+# Nord Ghostty
 My own custom made Nord color schemes for Ghostty.
 
 <img src="Images/Snowflake.png"><br/>
