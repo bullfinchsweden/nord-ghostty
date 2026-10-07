@@ -7,7 +7,7 @@ My own custom made Nord color schemes for Ghostty.
 
 * [Nord color palette](https://www.nordtheme.com/)<br/>
 
-<img src="Images/Nord.jpg" width="754" height="528" /><br/>
+<img src="Images/Nord.jpg" width="768" height="320" /><br/>
 
 Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
