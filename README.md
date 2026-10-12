@@ -13,7 +13,7 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Nord II*
 
-<img src="Images/NordGhostty.png" width="764.5" height="376.5" />
+<img src="Images/NordGhostty.png" width="764.5" height="376.5" /><br/>
 
 *Nord II Wave*
 
